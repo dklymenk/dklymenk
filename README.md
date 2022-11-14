@@ -20,3 +20,5 @@ I am sorry, but there is nothing partucularly impressive here as I only use GitH
 That said, I have one project here that you might find worthwhile - [warcrime](https://github.com/dklymenk/warcrime) and it's accompanying [warcrime-api](https://github.com/dklymenk/warcrime).
 
 If you are looking for more of my codes, please check out my [GitLab](https://gitlab.com/dklymenk).
+
+I also invite you to take a look at [my personal website](https://dmytro.klymenko.xyz). It features a list of projects that includes personal ones as well as volunteering contributions and some of my commercial work.
