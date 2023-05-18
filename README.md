@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am sorry, but there is nothing partucularly impressive here as I only use GitHub for collaboration on projects hosted on the platform or if I plan on taking advantage of a rather generous GitHub Actions free tier for public repositories.
 
-That said, I have one project here that you might find worthwhile - [warcrime](https://github.com/dklymenk/warcrime) and it's accompanying [warcrime-api](https://github.com/dklymenk/warcrime).
+That said, I have one project here that you might find worthwhile - [warcrime](https://github.com/dklymenk/warcrime) and it's accompanying [warcrime-api](https://github.com/dklymenk/warcrime-api).
 
 If you are looking for more of my codes, please check out my [GitLab](https://gitlab.com/dklymenk).
 
